@@ -1,0 +1,11 @@
+#container{
+    background-color: burlywood;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+#displayNews{
+    border-spacing: 5px;
+    background-color: cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
